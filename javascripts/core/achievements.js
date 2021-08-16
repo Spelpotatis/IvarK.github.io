@@ -1,5 +1,5 @@
 const allAchievements = {
-  r11 : "You gotta start somewhere",
+  r11 : "IT FLIPPING WORKS",
   r12 : "100 antimatter is a lot",
   r13 : "Half life 3 confirmed",
   r14 : "L4D: Left 4 Dimensions",
